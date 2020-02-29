@@ -336,3 +336,6 @@ body {
   padding: 40px 0;
   background-color: #212349;
 }
+.Photo{
+  border-radius:50%;
+}
